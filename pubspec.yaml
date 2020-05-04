@@ -1,0 +1,21 @@
+name: picture_handler
+description: A flutter package to handle taking picture from camera or from the gallery.
+version: 0.0.1
+author: LorisC
+homepage: https://github.com/LorisC/picture_handler.git
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.5.7+4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
